@@ -1,3 +1,3 @@
 # ios7betafw
 
-will work on this soon
+will work on this soon (hopefully)
